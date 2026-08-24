@@ -216,11 +216,18 @@ Eigenfrequencies (rad/s): [1204.5, 3872.1, 6510.8]
    python main.py --id <your_student_id>
    ```
 
----
+## 👨‍💻 Author
+
+**Armin Ilat**
+Undergraduate Electrical Engineering Student — Shahid Beheshti University (SBU)
+
+<!-- Add your contact links, e.g.: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](your-linkedin-url) -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email) -->
 
 ## 📄 License
-This project is licensed under the MIT License — see the `LICENSE` file for details.
 
+This project is licensed under the [MIT License](LICENSE).
 ---
 <p align="center">
 Developed for Shahid Beheshti University (SBU) Numerical Analysis Course.
